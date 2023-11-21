@@ -5,7 +5,7 @@
         <a href="#" class="logo">PortfoGua.</a>
 
         <nav class="navigasi">
-            <a href="#" style="--i:2;" class="active">Home</a>
+            <a href="#" style="--i:2;" class="active">Home</a>`
             <a href="#" style="--i:2;">About</a>
             <a href="#" style="--i:3;">Skills</a>
         </nav>
