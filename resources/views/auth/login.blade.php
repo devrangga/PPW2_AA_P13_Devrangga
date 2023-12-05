@@ -5,7 +5,7 @@
         <div class="col-md-8">
 
             <div class="card">
-                <div class="card-header">Login</div>
+                <div class="card-header bg-danger">Login</div>
                 <div class="card-body">
                     <form action="{{ route('authenticate') }}" method="post">
                         @csrf
@@ -38,7 +38,7 @@
 
 
                         <div class="mb-3 row">
-                            <input type="submit" class="col-md-3 offset-md-5 btn btn-primary" value="Login">
+                            <input type="submit" class="col-md-3 offset-md-5 btn btn-danger" value="Login">
                         </div>
                     </form>
                 </div>

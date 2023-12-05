@@ -5,14 +5,14 @@
         <a href="#" class="logo">PortfoGua.</a>
 
         <nav class="navigasi">
-            <a href="#" style="--i:2;" class="active">Home</a>`
+            <a href="#" style="--i:2;" class="active">Home</a>
             <a href="#" style="--i:2;">About</a>
             <a href="#" style="--i:3;">Skills</a>
         </nav>
     </header>
 
     <section class="home d-flex flex-column justify-content-center align-items-center">
-        <div class="homeee d-flex flex-column justify-content-center align-items-center">`
+        <div class="homeee d-flex flex-column justify-content-center align-items-center">
             <h1>Nama Gua Dev</h1>
             <h3>I'm A Fullstack Web Developer</h3>
             <p>A Vocational School
